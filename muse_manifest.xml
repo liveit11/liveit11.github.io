@@ -1,0 +1,183 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.adamcharliebryce.com" resolutions="1x" timestamp="1523857033589">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="108504420" ref="information:store:index"/>
+    <file name="information.css" crc="394040262" ref="information"/>
+    <file name="store.css" crc="3817111708" ref="store"/>
+    <file name="index.css" crc="103059849" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>information:phone>store:index:information:store"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>information:phone>store:index:information:store"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>information:phone>store:index:information:store"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>information:phone>store:index:information:store"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>information:phone>store:index:information:store"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>information:phone>store:index:information:store"/>
+  </folder>
+  <folder name="images">
+    <file name="becca182 2326x218.jpg" crc="4030230382" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0919-crop-u722.jpg" crc="41585699" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kye288x432.jpg" crc="237154479" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="taylorcampaign8024small.jpg" crc="3843799238" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mercantile8254-crop-u743.jpg" crc="3891981582" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okewa121268.jpg" crc="4098713559" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="static1squarespace-2.jpg" crc="457545291" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="static1squarespace-5.jpg" crc="176004687" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elodie.jpg" crc="4037882250" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mercantile ii-crop-u1140.jpg" crc="3856579002" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="evelina380x254.jpg" crc="126068922" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="herasabi.jpg" crc="396741373" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bianca.jpg" crc="478379741" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huffer-crop-u1150.jpg" crc="4120214087" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="renee324x485.jpg" crc="442605458" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mercantile iv324x215.jpg" crc="386550196" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="russh178x266.jpg" crc="4182522541" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="betsy176x263.jpg" crc="4100105390" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="claudia380x254.jpg" crc="486537581" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="claudia272x406.jpg" crc="4116908548" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="emma.jpg" crc="3860805572" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="honor298x447.jpg" crc="4161907588" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="renee ii-crop-u1174.jpg" crc="143068212" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marcelle386x579.jpg" crc="510713018" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jordan181x271.jpg" crc="3992144531" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carrie181x271.jpg" crc="268169308" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="remix.jpg" crc="41362879" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saskia-crop-u1176.jpg" crc="4288738277" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="becca182 2.jpg" crc="531437598" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0919-crop-u577.jpg" crc="3807709195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kye.jpg" crc="48239433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mercantile8254-crop-u605.jpg" crc="4194971295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mercantile ii.jpg" crc="423511757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="evelina.jpg" crc="3856981108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="renee.jpg" crc="4252661467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mercantile iv.jpg" crc="422315213" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huffer-crop-u882.jpg" crc="4075330029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="russh.jpg" crc="3994035272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="betsy.jpg" crc="61198868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="claudia.jpg" crc="528888581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="claudia2.jpg" crc="4017367144" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="honor.jpg" crc="297147483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marcelle.jpg" crc="4140806527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="renee ii-crop-u1014.jpg" crc="3964274460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jordan.jpg" crc="4154463622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carrie.jpg" crc="3783806714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saskia-crop-u1021.jpg" crc="4110828678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="528661522" ref="phone>information:phone>index:phone>store"/>
+      <file name="information.css" crc="3863156724" ref="phone>information"/>
+      <file name="index.css" crc="80674198" ref="phone>index"/>
+      <file name="store.css" crc="223115545" ref="phone>store"/>
+    </folder>
+    <file name="index.html" crc="181619869" seo="true" mt="1523856316848" redirect="true"/>
+    <file name="information.html" crc="3940693350" seo="true" mt="1523305346981" redirect="true"/>
+    <file name="store.html" crc="3783228334" seo="true" mt="1523305283786" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="160508738" seo="true" mt="1523856132368" redirect="true"/>
+  <file name="information.html" crc="467413290" seo="true" mt="1523304539794" redirect="true"/>
+  <file name="store.html" crc="4035712365" seo="true" mt="1523304539836" redirect="true"/>
+</manifest>
